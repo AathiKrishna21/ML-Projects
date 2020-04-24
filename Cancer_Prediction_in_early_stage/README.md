@@ -8,4 +8,4 @@ In this we have trained three differnt models for precdicting level of getting c
 The three different models are:
  * SVM
  * Decision Tree
- *K-Nearest Neighbour(KNN)
+ * K-Nearest Neighbour(KNN)
